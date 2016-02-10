@@ -117,6 +117,9 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.restdocs:spring-restdocs-mockmvc:1.0.1.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.restdocs:spring-restdocs-core:1.0.1.RELEASE" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: javax.servlet:javax.servlet-api:3.1.0" level="project" />
-    <orderEntry type="library" name="org.apache.poi:poi-excelant:3.13" level="application" />
+    <orderEntry type="library" name="Maven: org.apache.poi:poi:3.13" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.9" level="project" />
+    <orderEntry type="library" name="org.apache.poi:poi-excelant:3.13" level="project" />
   </component>
+  <component name="POM File Configuration" pomFile="" />
 </module>

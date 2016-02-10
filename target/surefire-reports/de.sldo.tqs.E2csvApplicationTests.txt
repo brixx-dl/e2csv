@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: de.sldo.tqs.E2csvApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.398 sec - in de.sldo.tqs.E2csvApplicationTests
