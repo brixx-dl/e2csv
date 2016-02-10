@@ -1,0 +1,7 @@
+Priorität,Durchführung,Testtyp,Bereich,Kurzbeschreibung,Soll-Verhalten,Tester,Kommentar,Smoketest
+["1", "X", "T", "Sicherheit", "InfoSeite", "- Anmeldung als Bürouser
+
+- Aufruf Infoseite
+http://eantrag.swisslife-select.de/boss/version.do
+
+(je nach Testinstanz ist der Name "eantrag.swisslife-select.de" ggf. anzupassen.)", "- Infoseite wird nicht angezeigt", "", "", ""],
